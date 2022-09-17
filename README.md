@@ -1,18 +1,21 @@
 <img src = "Banner.gif" width = "325px" align = "right">
 
-# ❤ Bem vindo!
+# Olá, seja Bem Vindo! 😁
   <div id="badges">
   <a href = "https://www.linkedin.com/in/victorbsr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "https://www.instagram.com/">
-  <img src="https://img.shields.io/badge/-INSTAGRAM-%23E4405F" alt="Instagram Badge"/>
+  <a href = "https://www.instagram.com/victor.bsr/">
+  <img src="https://img.shields.io/badge/Instagram-critical?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
+<br />
+
 - 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas
-- 😄 Fã de java
 - 👩‍💻 Aprendendo sobre back-end
+
+<br />
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
