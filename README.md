@@ -1,6 +1,6 @@
 <img src = "Banner.gif" width = "325px" align = "right">
 
-# Olá, seja Bem Vindo! 😁
+# Seja Bem Vindo! 😁
   <div id="badges">
   <a href = "https://www.linkedin.com/in/victorbsr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,9 +11,12 @@
 </div>
 
 <br />
+- 😁 Olá meu nome é Victor Breno tenho 22 anos e sou de Aracaju-SE. 
+- 👨‍💻 Atualmente estou aprimorando meus conhecimentos para me tornar um Desenvolvedor Full-Stack. 
+- 👶🏼 Venho programando desde meus 16 anos fazendo plugins e Scripts em Python. 
+- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas.
+- 👔 Sou estagiario da faculdade Uninassau no Projeto VELOZ. 
 
-- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas
-- 👩‍💻 Aprendendo sobre back-end
 
 <br />
 
@@ -24,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Mobile" alt="Mobile" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
