@@ -19,7 +19,7 @@
 <br />
 - 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas.
 <br />
-- 👔 Sou estagiario da faculdade Uninassau no Projeto VELOZ. 
+- 👔 Sou estagiário da faculdade Uninassau no Projeto VELOZ. 
 <br />
 <br />
 💻 Tecnologias 👇🏼
