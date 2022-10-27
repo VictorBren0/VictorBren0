@@ -22,7 +22,7 @@
 - 👔 Sou estagiario da faculdade Uninassau no Projeto VELOZ. 
 <br />
 <br />
-💻 Tennologias 👇🏼
+💻 Tecnologias 👇🏼
 <br />
 <br />
 
