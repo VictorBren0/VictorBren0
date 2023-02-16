@@ -15,8 +15,6 @@
 <br />
 - 👨‍💻 Atualmente estou aprimorando meus conhecimentos para me tornar um Desenvolvedor Full-Stack. 
 <br />
-- 👶🏼 Venho programando desde meus 16 anos fazendo plugins e Scripts em Python. 
-<br />
 - 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas.
 <br />
 - 👔 Sou estagiário da faculdade Uninassau no Projeto VELOZ. 
