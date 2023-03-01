@@ -15,9 +15,9 @@
 <br />
 - 👨‍💻 Atualmente estou aprimorando meus conhecimentos para me tornar um Desenvolvedor Full-Stack. 
 <br />
-- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas 5º Período.
 <br />
-- 👔 Sou estagiário da faculdade Uninassau no Projeto VELOZ. 
+- 👔 Estagiário do projeto VELOZ, um programa de aceleração de carreira da faculdade UniNassau, onde tenho a oportunidade de aprimorar ainda mais meus conhecimentos e habilidades em programação. 
 <br />
 <br />
 💻 Tecnologias 👇🏼
@@ -34,6 +34,8 @@
 - POSTGREESQL
 - PYTHON
 - MYSQL
+- Node.js
+- Linux Server
 
 <br />
 <br />
@@ -48,6 +50,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Mobile" alt="Mobile" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
 
 <br />
