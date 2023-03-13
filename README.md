@@ -21,8 +21,7 @@
 - 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas 5º Período.
 <br />
 - 👔 Estagiário do projeto VELOZ, um programa de aceleração de carreira da faculdade UniNassau, onde tenho a oportunidade de aprimorar ainda mais meus conhecimentos e habilidades em programação. 
-- 👨🏻‍💻 Veja meus projetos disponiveis no [Github](https://github.com/VictorBren0?tab=repositories)
-- 📫 Conecte-se comigo no   [LinkedIn](https://www.linkedin.com/in/victorbsr/)
+
 <br />
 <br />
 <h1>💻 Tecnologias </h1>
@@ -45,7 +44,7 @@
 <br />
 <h1> 🏅 Minhas estatisticas do github:</h1>
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Victorbren0&theme=dark)](https://git.io/streak-stats)
+  <img height="180em" src="https://streak-stats.demolab.com?user=Victorbren0&theme=dark" />
 </div>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorBren0&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
