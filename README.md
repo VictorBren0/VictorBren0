@@ -45,7 +45,7 @@
 <br />
 <h1>🏅 Minhas estatisticas do github:</h1>
 <div align="center">
-<img height="180em" src="https://streak-stats.demolab.com?user=VictorBren0&theme=dark" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Victorbren0&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorBren0&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
