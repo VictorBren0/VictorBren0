@@ -1,6 +1,6 @@
 <img src = "Banner.gif" width = "325px" align = "right">
 
-# Seja Bem Vindo! 😁
+<h1>Seja Bem Vindo! 😁</h1>
   <div id="badges">
   <a href = "https://www.linkedin.com/in/victorbsr/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,6 +21,8 @@
 - 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas 5º Período.
 <br />
 - 👔 Estagiário do projeto VELOZ, um programa de aceleração de carreira da faculdade UniNassau, onde tenho a oportunidade de aprimorar ainda mais meus conhecimentos e habilidades em programação. 
+- 👨🏻‍💻 Veja meus projetos disponiveis no [Github](https://github.com/VictorBren0?tab=repositories)
+- 📫 Conecte-se comigo no   [LinkedIn](https://www.linkedin.com/in/victorbsr/)
 <br />
 <br />
 <h1>💻 Tecnologias </h1>
@@ -39,7 +41,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
-
 <br />
 <br />
+<h1>🏅 Minhas estatisticas do github:</h1>
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=VictorBren0&theme=dark)](https://git.io/streak-stats)
+</div>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorBren0&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBren0&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
