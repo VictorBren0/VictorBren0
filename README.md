@@ -14,7 +14,6 @@
 </div>
 <br />
 <br />
-
 - 😁 Olá meu nome é Victor Breno tenho 22 anos e sou de Aracaju-SE. 
 <br />
 - 👨‍💻 Atualmente estou aprimorando meus conhecimentos para me tornar um Desenvolvedor Full-Stack. 
