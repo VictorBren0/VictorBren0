@@ -43,9 +43,9 @@
 </div>
 <br />
 <br />
-## 🏅 Minhas estatisticas do github:
+<h1> 🏅 Minhas estatisticas do github:</h1>
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Victorbren0b&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Victorbren0)](https://git.io/streak-stats)
 </div>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorBren0&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
