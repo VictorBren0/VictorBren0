@@ -43,6 +43,8 @@
 <br />
 <br />
 <h1> 🏅 Minhas estatisticas do github:</h1>
+<br />
+<br />
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorBren0&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
