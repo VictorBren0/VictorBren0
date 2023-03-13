@@ -5,6 +5,9 @@
   <a href = "https://www.linkedin.com/in/victorbsr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href = "https://victorbreno.dev/">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="WebSite Badge"/>
+  </a>
   <a href = "https://www.instagram.com/victorbreno.dev/">
   <img src="https://img.shields.io/badge/Instagram-critical?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -21,23 +24,6 @@
 <br />
 <br />
 💻 Tecnologias 👇🏼
-<br />
-<br />
-
-- HTML
-- JAVASCRIPT
-- GIT
-- JAVA
-- REACT NATIVE
-- REACT
-- CSS
-- POSTGREESQL
-- PYTHON
-- MYSQL
-- Node.js
-- Linux Server
-
-<br />
 <br />
 
 <div>
