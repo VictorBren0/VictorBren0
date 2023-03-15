@@ -28,18 +28,25 @@
 <br />
 <br />
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostGreSQL" alt="PostGreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Mobile" alt="Mobile" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-</div>
+                    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="40px" alt="" title="GitHub">
+                    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" width="40px" alt="" title="Git">
+                    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px" alt="" title="HTML">
+                    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px" alt="" title="CSS">
+                    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px" alt="" title="JavaScript">
+                    <img src="https://cdn-icons-png.flaticon.com/512/875/875209.png" width="40px" alt="" title="React">
+                    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png" width="40px" alt="" title="Ubuntu">
+                    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png" width="40px" alt="" title="Android">
+                    <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" width="40px" alt="" title="React Native">
+                    <img src="https://img.icons8.com/color/256/nodejs.png" alt="" width="40px" title="Node.JS">
+                    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40px" alt="" title="Java">
+                    <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="40px" alt="" title="Insomnia">
+                    <img src="https://cdn-icons-png.flaticon.com/512/5376/5376334.png" width="40px" alt="" title="BitVise">
+                    <img src="https://img.icons8.com/nolan/256/java-eclipse.png" width="40px" alt="" title="Eclipse">
+                    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="40px" alt="" title="Visual Studio Code">
+                    <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40px" alt="" title="Docker">
+                    <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40px" alt="" title="MySql">
+                    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="40px" alt="" title="PostgreSQL">
+                    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png" width="40px" alt="" title="Oracle">
 <br />
 <br />
 <h1> 🏅 Minhas estatisticas do github:</h1>
