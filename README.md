@@ -47,6 +47,10 @@
                     <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40px" alt="" title="MySql">
                     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="40px" alt="" title="PostgreSQL">
                     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png" width="40px" alt="" title="Oracle">
+                    <img src="https://img.icons8.com/color/256/typescript.png" width="40px" alt="" title="TypeScript">
+                    <img src="https://user-images.githubusercontent.com/87786280/234133175-71d3c0f1-c5a5-4cc1-b117-6b8bca970753.png" width="40px" alt="" title="Next.JS">
+
+
 <br />
 <br />
 <h1> 🏅 Minhas estatisticas do github:</h1>
