@@ -18,7 +18,7 @@
 <br />
 - 👨‍💻 Atualmente estou aprimorando meus conhecimentos para me tornar um Desenvolvedor Full-Stack. 
 <br />
-- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas 5º Período.
+- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas.
 <br />
 - 👔 Estagiário do projeto VELOZ, um programa de aceleração de carreira da faculdade UniNassau, onde tenho a oportunidade de aprimorar ainda mais meus conhecimentos e habilidades em programação. 
 
