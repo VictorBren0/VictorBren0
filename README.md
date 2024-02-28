@@ -1,4 +1,3 @@
-<img src = "Banner.gif" width = "325px" align = "right">
 
 <h1>Seja Bem Vindo! 😁</h1>
   <div id="badges">
