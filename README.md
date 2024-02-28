@@ -1,4 +1,4 @@
-![image](https://github.com/VictorBren0/VictorBren0/assets/87786280/803948b7-ffd9-4b79-bb02-6a14d833c084)<img src = "Banner.gif" width = "325px" align = "right">
+<img src = "Banner.gif" width = "325px" align = "right">
 
 <h1>Seja Bem Vindo! 😁</h1>
   <div id="badges">
