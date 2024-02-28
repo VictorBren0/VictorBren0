@@ -1,4 +1,4 @@
-<img src = "Banner.gif" width = "325px" align = "right">
+![image](https://github.com/VictorBren0/VictorBren0/assets/87786280/803948b7-ffd9-4b79-bb02-6a14d833c084)<img src = "Banner.gif" width = "325px" align = "right">
 
 <h1>Seja Bem Vindo! 😁</h1>
   <div id="badges">
@@ -14,13 +14,13 @@
 </div>
 <br />
 <br />
-- 😁 Olá meu nome é Victor Breno tenho 22 anos e sou de Aracaju-SE. 
+- 😁 Olá meu nome é Victor Breno tenho 23 anos e sou de Aracaju-SE. 
 <br />
-- 👨‍💻 Atualmente estou aprimorando meus conhecimentos para me tornar um Desenvolvedor Full-Stack. 
+- 👨‍💻 Atualmente estou aprimorando meus conhecimentos em React Native. 
 <br />
-- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas.
 <br />
-- 👔 Estagiário do projeto VELOZ, um programa de aceleração de carreira da faculdade UniNassau, onde tenho a oportunidade de aprimorar ainda mais meus conhecimentos e habilidades em programação. 
+- 👔 Desenvolvedor de Aplicativos Móveis na Atos Capital. 
 
 <br />
 <br />
@@ -28,28 +28,21 @@
 <br />
 <br />
 <div>
-                    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" width="40px" alt="" title="GitHub">
-                    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" width="40px" alt="" title="Git">
                     <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px" alt="" title="HTML">
                     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px" alt="" title="CSS">
                     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px" alt="" title="JavaScript">
-                    <img src="https://cdn-icons-png.flaticon.com/512/875/875209.png" width="40px" alt="" title="React">
-                    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png" width="40px" alt="" title="Ubuntu">
-                    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png" width="40px" alt="" title="Android">
-                    <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" width="40px" alt="" title="React Native">
-                    <img src="https://img.icons8.com/color/256/nodejs.png" alt="" width="40px" title="Node.JS">
-                    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40px" alt="" title="Java">
-                    <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" width="40px" alt="" title="Insomnia">
-                    <img src="https://cdn-icons-png.flaticon.com/512/5376/5376334.png" width="40px" alt="" title="BitVise">
-                    <img src="https://img.icons8.com/nolan/256/java-eclipse.png" width="40px" alt="" title="Eclipse">
-                    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="40px" alt="" title="Visual Studio Code">
-                    <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40px" alt="" title="Docker">
-                    <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40px" alt="" title="MySql">
-                    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="40px" alt="" title="PostgreSQL">
-                    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png" width="40px" alt="" title="Oracle">
                     <img src="https://img.icons8.com/color/256/typescript.png" width="40px" alt="" title="TypeScript">
+                    <img src="https://cdn-icons-png.flaticon.com/512/875/875209.png" width="40px" alt="" title="React">
                     <img src="https://user-images.githubusercontent.com/87786280/234133175-71d3c0f1-c5a5-4cc1-b117-6b8bca970753.png" width="40px" alt="" title="Next.JS">
-
+                    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png" width="40px" alt="" title="Android">
+                    <img src="https://cdn.jim-nielsen.com/ios/512/apple-developer-2022-01-13.png" width="40px" alt="" title="IOS">
+                    <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" width="40px" alt="" title="React Native">
+                    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40px" alt="" title="Redux">
+                    <img src="https://miro.medium.com/v2/resize:fit:480/1*Iohnw2aOQ5EBghVoqKA7VA.png" width="40px" alt="" title="Styled Components">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtBjh1WGyI6t2_fPkj6CKntQUTcffNvTaPMsbpmvrkUyC4xZlv1oT0frZt5z0Zim0pT0&usqp=CAU" width="40px" alt="" title="Expo">
+                    <img src="https://img.icons8.com/color/256/nodejs.png" alt="" width="40px" title="Node.JS">
+                    
+  
 
 <br />
 <br />
